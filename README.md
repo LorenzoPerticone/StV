@@ -47,3 +47,7 @@ Arch linux and major derivatives (manjaro, antergos, archbang, parabola)
 Slackware
 
 Gentoo
+
+Unfortunately I only tested the position of windows on my own machine, always with the same screen and resolution, so any suggestion is welcome.
+
+Also, sorry for my bad english. It's not my native language.
