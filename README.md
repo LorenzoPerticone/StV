@@ -1,6 +1,12 @@
 # StV
 Streaming-to-Vlc
 
+
+This simple python3 script allows one to open stream videos from the internet with vlc (with a little change to the source code it is possible to use any video player, as long as it has the right codecs).
+
+It works with multiple browsers and multiple videos opened.
+
+
 HowToUse:
 Open your favourite browser (supported browsers include Firefox and Chromium/Chrome), find the video you want to stream and play it. (Muting the embedded player is a good idea, because the video still has to load from that page!)
 Once it has started playing, run this program (from the command line or using the graphical interface).
@@ -24,7 +30,8 @@ Sadly, unsupported sites include:
 
 moevideo, streamin, akstream, flashx, backin, openload, videomega, videowood.
 
-Note: this python3 script currently runs only under Linux, and has been tested on:
+
+Note: this python3 script currently runs only under Linux, requires python3 and PyQt4 and has been tested on:
 
 
 Ubuntu and direct derivatives 14.04 and 15.04,
@@ -40,7 +47,3 @@ Arch linux and major derivatives (manjaro, antergos, archbang, parabola)
 Slackware
 
 Gentoo
-
-This simple python3 script allows one to open stream videos from the internet with vlc (with a little change to the source code it is possible to use any video player, as long as it has the right codecs).
-
-It works with multiple browsers and multiple videos opened.
