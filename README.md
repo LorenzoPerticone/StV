@@ -7,6 +7,9 @@ This simple python3 script allows you to open stream videos from the internet wi
 It can work with multiple browsers and multiple videos being open at the same time.
 
 
+Currently it is only available in italian, but a new version is being written, with support for english too.
+
+
 HowToUse:
 Open your favourite browser (supported browsers include Firefox and Chromium/Chrome), find the video you want to stream and play it. (Muting the embedded player is a good idea, because the video still has to load from that page!)
 Once it has started playing, run this program (from the command line or using the graphical user interface).
