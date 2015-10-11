@@ -35,7 +35,7 @@ Sadly, unsupported sites include:
 moevideo, streamin, akstream, flashx, backin, openload, videomega, videowood.
 
 
-Note: this python3 script currently runs only on Linux snd requires python3 and PyQt4. It has been tested on:
+Note: this python3 script currently runs only on Linux and requires python3 and PyQt4. It has been tested on:
 
 
 Ubuntu and direct derivatives(gnome, mate, kubuntu, lubuntu, xubuntu, edubuntu) 14.04 and 15.04,
